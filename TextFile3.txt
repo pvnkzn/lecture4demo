@@ -1,8 +1,6 @@
 This is text file 3. 
 
 
-GitKraken....
+(Branch2, Mary)
 
-(Branch1, Tom)
-
-Hello everyone....
+Doing work in file 3
