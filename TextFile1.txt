@@ -2,5 +2,3 @@ This is text file 1.
 
 
 Small edit in File 1.  Hello IAT339!
-
-Tday is Tuesday February 6th, 2024.
