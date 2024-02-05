@@ -1,4 +1,6 @@
 This is text file 3. 
 
 
-GitKraken....
+(Branch2, Mary)
+
+Doing work in file 3
