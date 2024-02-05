@@ -2,3 +2,7 @@ This is text file 3.
 
 
 GitKraken....
+
+(Branch1, Tom)
+
+Hello everyone....
